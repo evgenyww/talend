@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_lvWoEWQmEe2Xo76bOWk3wg" label="talend-poc2" description="talend poc with private git repo" language="java" technicalLabel="TALEND_POC2" author="_lvWoEmQmEe2Xo76bOWk3wg" productVersion="Talend Cloud API Services Platform-8.0.1.20220923_1236-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:evgenyww/talend.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_lwpokGQmEe2Xo76bOWk3wg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_lvWoEmQmEe2Xo76bOWk3wg" login="evgenyvasyuk@eval13401.talend.com" firstName="Evgeny" lastName="Vasyuk" type="DQ"/>
+</xmi:XMI>
